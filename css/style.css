@@ -1,0 +1,19 @@
+p {
+  font-weight: bold;
+  color: blue;
+}
+
+table, td, th {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 0.5em;
+}
+
+.mwas {
+  border: none;
+}
+
+body {
+  font-family: helvetica, tahoma, arial, sans-serif;
+  color: #330000;
+}
